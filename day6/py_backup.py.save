@@ -1,0 +1,9 @@
+import os
+from datetime import datetime
+
+filename = input("Enter the file name to backup : ")
+logfile = f"log_{datetime.now().date()}.log"
+
+def log(message):
+	with open(logfile, "a") as f:
+		

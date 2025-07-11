@@ -1,0 +1,3 @@
+Script started
+This is a log file created by Python.
+Hope you got it
