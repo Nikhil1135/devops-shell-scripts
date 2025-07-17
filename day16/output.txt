@@ -1,0 +1,2 @@
+this is written from python !!  Thaggede le 
+ Appending Anpther line.Appending using 'a' mode .
